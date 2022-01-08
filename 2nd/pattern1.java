@@ -1,3 +1,4 @@
+   // SOLID RECTANGLE
 import java.util.*;
 public class pattern1 {
     public static void main(String args[]){
@@ -8,7 +9,7 @@ public class pattern1 {
         for(int i=1;i<=n;i++){
             // inner loop
             for(int j=1;j<=m;j++){
-                System.out.print("* ");   // printing star in same line
+                System.out.print("*");   // printing star in same line
             } System.out.println();    // using this statement for next line
         }
     }
