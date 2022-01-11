@@ -9,6 +9,7 @@ public class palindrome {
            for(int j=1;j<=n-i;j++){
                System.out.print(" ");
            }
+           // --> numbers
            for(int j=i;j>=1;j--){   // loop is in backword direction from i to 1
                System.out.print(j);
            }
