@@ -9,7 +9,7 @@ public class pyramid {
                 System.out.print(" ");
             }
             for(int j=1;j<=i;j++){    
-                System.out.print(i+" ");   // we add space because we want space after every no.
+                System.out.print("i"+" ");   // we add space because we want space after every no.
             }
         System.out.println();
         }
