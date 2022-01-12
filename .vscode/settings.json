@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "patterns",
-        "advanced patterns"
+        "advanced patterns",
+        "3rd"
     ]
 }
