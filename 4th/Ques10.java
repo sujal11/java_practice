@@ -13,7 +13,7 @@ public class Ques10 {
         for(int i=1;i<=n;i++){
             System.out.print(a+" ");
             int temp=a+b;
-            a=b;
+            a=b;   
             b=temp;
             
         }System.out.println();
