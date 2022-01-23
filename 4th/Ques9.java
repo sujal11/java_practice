@@ -9,7 +9,7 @@ public class Ques9 {
             }
         }System.out.println("Greatest Common Divisor is "+var);
 
-    }
+    }   
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int a = sc.nextInt();
