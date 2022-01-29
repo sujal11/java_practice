@@ -17,3 +17,4 @@ public class Ques9 {
         commonDivisor(a,b);
     }
 }
+   
